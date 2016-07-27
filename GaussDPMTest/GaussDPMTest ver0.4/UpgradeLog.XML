@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DPMTest">
+</Property><Property Name="ソリューション ファイル" Value="E:\Dolphin\Reserch\公開用プログラム\GaussDPMTest ver0.4\GaussDPMTest ver0.4\DPMTest.sln">
+</Property><Property Name="Date" Value="2013年4月16日">
+</Property><Property Name="Time" Value="14:16">
+</Property></Properties><Event ErrorLevel="0" Project="DPMTest" Source="DPMTest\DPMTest.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="DPMTest" Source="DPMTest\DPMTest.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="DPMTest" Source="DPMTest\DPMTest.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="DPMTest" Source="DPMTest\DPMTest.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DPMTest.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="DPMTest.sln" Description="Converted">
+</Event></UpgradeLog>
